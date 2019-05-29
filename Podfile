@@ -6,5 +6,5 @@ target 'convert_apple_format' do
   # use_frameworks!
 
   # Pods for convert_apple_format
-  pod 'KSCrash', :git => 'https://github.com/kstenerud/KSCrash.git', :tag => '1.15.20'
+  pod 'KSCrash', :git => 'https://github.com/rannger/KSCrash.git'
 end
